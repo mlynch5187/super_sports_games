@@ -1,6 +1,6 @@
 ages = [24, 30, 18, 20, 41]
 
-sum_of_integers = ages.sum
+ages.sum
 
 number_of_integers = ages.length
 
